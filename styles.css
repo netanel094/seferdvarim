@@ -58,3 +58,7 @@ h1,span, #cc32, #cc33, #cc34
 
  }
 
+ .social-icon:hover{
+    color: rgb(107, 193, 108);
+ }
+
