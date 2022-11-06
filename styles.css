@@ -62,3 +62,9 @@ h1,span, #cc32, #cc33, #cc34
     color: rgb(107, 193, 108);
  }
 
+ .about
+ {
+    color: #52a371;
+    margin: 25px;
+    font-size: 20px;
+ }
