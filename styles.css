@@ -13,9 +13,10 @@ h1,span, #cc32, #cc33, #cc34
 
 .title
 {
+    margin-top: 20px;
     text-align: center;
     font-size:38px;
-    color: #1a1f1c;
+    color: #082c16;
     margin-bottom: 80px;
     text-shadow: 1px 1px 1px #000;
 }
@@ -36,7 +37,7 @@ h1,span, #cc32, #cc33, #cc34
     font-size: 30px;
     font-family: 'Noto Serif Hebrew', serif;
     letter-spacing: 0.2px;
-    ;
+    direction: rtl;
 }
 
 
@@ -54,6 +55,7 @@ h1,span, #cc32, #cc33, #cc34
     color: black;
     font-size: 35px;
     padding: 7px 7px;
+    margin-bottom: 30px;
     width: 60px;
 
  }
@@ -66,5 +68,5 @@ h1,span, #cc32, #cc33, #cc34
  {
     color: #52a371;
     margin: 25px;
-    font-size: 20px;
+    font-size: 22px;
  }
