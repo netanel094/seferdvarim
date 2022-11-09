@@ -3,12 +3,21 @@ body {
 
 }
 
+h2.link{
+    margin: 35px;
+}
 
-h1,span, #cc32, #cc33, #cc34
+h1,h2, span, #cc32, #cc33, #cc34
 {
     text-align: center;
     font-weight: bolder;
     
+}
+
+.link{
+    font-size: 24px;
+    text-decoration: none;
+    color: rgb(82, 119, 223);
 }
 
 .title
@@ -61,7 +70,7 @@ h1,span, #cc32, #cc33, #cc34
  }
 
  .social-icon:hover{
-    color: rgb(107, 193, 108);
+    color: rgb(104, 151, 105);
  }
 
  .about
