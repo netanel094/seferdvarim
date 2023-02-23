@@ -1,81 +1,79 @@
 body {
-    background-image: linear-gradient(#F2DEBA, #FFEFD6, #F2E7D5);
-
+  background-image: linear-gradient(#f2deba, #ffefd6, #f2e7d5);
+  padding: 15px;
 }
 
-h2.link{
-    margin: 35px;
+h2.link {
+  margin: 35px;
 }
 
-h1,h2, span, #cc32, #cc33, #cc34
-{
-    text-align: center;
-    font-weight: bolder;
-    
+h1,
+h2,
+span,
+#cc32,
+#cc33,
+#cc34 {
+  text-align: center;
+  font-weight: bolder;
 }
 
-.link{
-    font-size: 24px;
-    text-decoration: none;
-    color: rgb(82, 119, 223);
+.link {
+  font-size: 24px;
+  text-decoration: none;
+  color: rgb(82, 119, 223);
 }
 
-.title
-{
-    margin-top: 20px;
-    text-align: center;
-    font-size:38px;
-    color: #082c16;
-    margin-bottom: 80px;
-    text-shadow: 1px 1px 1px #000;
+.title {
+  margin-top: 20px;
+  text-align: center;
+  font-size: 38px;
+  color: #082c16;
+  margin-bottom: 80px;
+  text-shadow: 1px 1px 1px #000;
 }
 
-.title2
-{
-    color: #3A8891;
+.title2 {
+  color: #3a8891;
 }
 
-.paragraph{
-    text-align: center;
-    font-size: 31px;
-    margin-bottom:80px;
+.paragraph {
+  text-align: center;
+  font-size: 31px;
+  margin-bottom: 80px;
 }
 
-.content{
-    text-align: center;
-    font-size: 30px;
-    font-family: 'Noto Serif Hebrew', serif;
-    letter-spacing: 0.2px;
-    direction: rtl;
+.content {
+  text-align: center;
+  font-size: 27px;
+  font-family: "Noto Serif Hebrew", serif;
+  letter-spacing: 0.2px;
+  direction: rtl;
 }
 
-
-.sentence-num{
-    font-weight: bolder;
-    text-align: center;
+.sentence-num {
+  font-weight: bolder;
+  text-align: center;
 }
 
-#footer{
-    padding: 2%;
-    text-align: center;
- }
+#footer {
+  padding: 2%;
+  text-align: center;
+}
 
-.social-icon{
-    color: black;
-    font-size: 35px;
-    padding: 7px 7px;
-    margin-bottom: 30px;
-    width: 60px;
+.social-icon {
+  color: black;
+  font-size: 35px;
+  padding: 7px 7px;
+  margin-bottom: 30px;
+  width: 60px;
+}
 
- }
+.social-icon:hover {
+  color: rgb(104, 151, 105);
+}
 
- .social-icon:hover{
-    color: rgb(104, 151, 105);
- }
-
- .about
- {
-    color: #52a371;
-    margin: 25px;
-    font-size: 22px;
- }
+.about {
+  color: #52a371;
+  margin: 25px;
+  font-size: 22px;
+}
